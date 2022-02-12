@@ -21,7 +21,7 @@
             <img src="assets/images/gambar 1.jpg" alt="" class="img-fluid">
           </div>
           <h4 class="card-title">Printer</h4>
-          <p class="card-text">dapat memudahkan kegiatan percetakan anda</p>
+          <p class="card-text">dapat memudahkann kegiatan percetakan anda</p>
           <p><strong>Rp.2.500.000</strong></p>
           <div class="card-footer">
             <button class="btn btn-primary btn-sm">Beli</button>
